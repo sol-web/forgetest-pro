@@ -1,0 +1,16 @@
+{
+  "name": "forgetest",
+  "version": "1.0.0",
+  "description": "node-forge crypto test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Byoungcheon Lee",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "jsonwebtoken": "^9.0.0",
+    "node-forge": "^1.3.1"
+  }
+}
